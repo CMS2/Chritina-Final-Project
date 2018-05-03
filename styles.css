@@ -1,3 +1,15 @@
-.navbar {
-   
+.navbar .navbar-expand-lg .navbar-light .bg-light .navbar-brand{
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif'; */
+    color: darkcyan;
+}
+#christina{
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif'; 
+    color: darkcyan;
+}
+.nav-link {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkcyan;
+}
+.nav-link .active {
+    color: bisque;
 }
