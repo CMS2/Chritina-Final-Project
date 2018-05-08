@@ -6,10 +6,16 @@
      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif'; 
     color: darkcyan;
 }
-.nav-link {
+.fun {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: darkcyan;
+    text-decoration: none;
+    margin: 5px;
 }
-.nav-link .active {
+
+.fun:hover {
+    text-decoration: none;
+}
+.fun .active {
     color: bisque;
 }
