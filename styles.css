@@ -25,8 +25,12 @@
 }
 
 body {
-    background-image: url("./christina-rossetti.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 500px 400px;
+    
+    background-image: linear-gradient(#ACFFCE, rgb(24, 68, 53));
+}
+
+.super {
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
 }
