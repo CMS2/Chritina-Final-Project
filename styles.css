@@ -19,6 +19,14 @@
     text-decoration: none;
     color: rgb(4, 94, 94);
 }
-.fun .active {
+
+.fun.active {
     color: rgb(4, 94, 94);
+}
+
+body {
+    background-image: url("./christina-rossetti.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 500px 400px;
 }
