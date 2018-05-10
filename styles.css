@@ -34,3 +34,18 @@ body {
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+p.wow {
+    float: center;
+    margin-left: 550;
+    margin-top: 0;
+    margin-right: 0;
+}
+
+.w {
+    margin: 10px;
+}
+
+.i {
+    margin: 10;
+}
