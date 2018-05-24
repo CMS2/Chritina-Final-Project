@@ -56,7 +56,24 @@ p.wow {
 }
 
 .container-great {
-    margin-top: 25px;
-    margin-left: 25px;
+    width: 90%;
+    margin: 0 auto;
+    padding:30px;
+
 }
 
+.col-large-2 {
+    margin-right: 35px;
+
+}
+
+p {
+    font-size: 20;
+}
+
+.col-md-4 {
+    width: 90%;
+} 
+.col-md-4 #good-friday{
+    padding-top:180px;
+}
